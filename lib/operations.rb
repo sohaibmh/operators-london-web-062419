@@ -12,8 +12,8 @@ speed < 40 or speed > 60 ? true : false
 end
 
 
-case name 
- 
+case name
+
   when "Alice"
     puts "Hello, Alice!"
   when "The White Rabbit"
@@ -22,6 +22,6 @@ case name
     puts "Welcome to the tea party, Mad Hatter"
   when "The Queen of Hearts"
     puts "Please don't chop off my head!"
-  else 
+  else
     puts "Whoooo are you?"
 end
